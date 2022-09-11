@@ -1,0 +1,18 @@
+body {
+    background: #E0E0E0;
+  }
+  p {
+    color: black;
+    text-align:center;
+  }
+  h1 {
+    color: #272727;
+    text-align:center;
+  }
+  h4 {
+    color: rgb(100,0,0);
+    text-align:center;
+  }
+  input {
+    box-align:center;
+  }
